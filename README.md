@@ -1,5 +1,9 @@
 # GitHub-Training-EL
-For GitHub training
+2021 GitHub training for ERDC-EL.
+
+Following agenda and notes in the [GitHub Training for ERDC-EL](https://docs.google.com/document/d/123cKWOCoecaqxbKR5u1KZJApjuVPg6jNb6i7l5PdFr0/edit#) Google Doc.
+
+
 
 Template for outline
 1. x
