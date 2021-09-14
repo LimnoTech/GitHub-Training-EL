@@ -10,12 +10,16 @@ Python is dynamically-typed and garbage-collected. It supports multiple programm
 ## History
 
 The designer of Python, Guido van Rossum, at OSCON 2006
-Main article: History of Python
+
 Python was conceived in the late 1980s[38] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to ABC programming language, which was inspired by SETL,[39] capable of exception handling and interfacing with the Amoeba operating system.[10] Its implementation began in December 1989.[40] Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his "permanent vacation" from his responsibilities as Python's Benevolent Dictator For Life, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker.[41] In January 2019, active Python core developers elected a 5-member "Steering Council" to lead the project.[42] As of 2021, the current members of this council are Barry Warsaw, Brett Cannon, Carol Willing, Thomas Wouters, and Pablo Galindo Salgado.[43]
 
 Python 2.0 was released on 16 October 2000, with many major new features, including a cycle-detecting garbage collector and support for Unicode.[44]
 
+Python 3 info here!!!
+
+
 ## Design philosophy and features
+
 Python is a multi-paradigm programming language. Object-oriented programming and structured programming are fully supported, and many of its features support functional programming and aspect-oriented programming (including by metaprogramming[57] and metaobjects (magic methods)).[58] Many other paradigms are supported via extensions, including design by contract[59][60] and logic programming.[61]
 
 Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management.[62] It also features dynamic name resolution (late binding), which binds method and variable names during program execution.
