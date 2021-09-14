@@ -15,10 +15,10 @@ Python was conceived in the late 1980s[38] by Guido van Rossum at Centrum Wiskun
 
 Python 2.0 was released on 16 October 2000, with many major new features, including a cycle-detecting garbage collector and support for Unicode.[44]
 
-Python 3 info here!!!
+Python 3 info here!!
 
 
-## Design philosophy and features
+# Design philosophy and features
 
 Python is a multi-paradigm programming language. Object-oriented programming and structured programming are fully supported, and many of its features support functional programming and aspect-oriented programming (including by metaprogramming[57] and metaobjects (magic methods)).[58] Many other paradigms are supported via extensions, including design by contract[59][60] and logic programming.[61]
 
@@ -34,7 +34,7 @@ Simple is better than complex.
 Complex is better than complicated.
 Readability counts.
 
-### Indentation
+#### Indentation
 Main article: Python syntax and semantics § Indentation
 Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[76] Thus, the program's visual structure accurately represents the program's semantic structure.[77] This feature is sometimes termed the off-side rule, which some other languages share, but in most languages indentation does not have any semantic meaning. The recommended indent size is four spaces.[78]
 
