@@ -1,9 +1,10 @@
 Python (programming language)
 ============
 From Wikipedia, the free encyclopedia
+- Copy from here: **https://en.wikipedia.org/wiki/Python_(programming_language)**
 - Look also at https://www.python.org
 
-Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.[30]
+Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.[30](https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-AutoNT-7-30)
 
 Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library.[31]
 
@@ -15,9 +16,11 @@ Python was conceived in the late 1980s[38] by Guido van Rossum at Centrum Wiskun
 
 Python 2.0 was released on 16 October 2000, with many major new features, including a cycle-detecting garbage collector and support for Unicode.[44]
 
-Python 3 info here!!!
+Python 3 info here!!
 
-Design philosophy and features
+
+# Design philosophy and features
+
 Python is a multi-paradigm programming language. Object-oriented programming and structured programming are fully supported, and many of its features support functional programming and aspect-oriented programming (including by metaprogramming[57] and metaobjects (magic methods)).[58] Many other paradigms are supported via extensions, including design by contract[59][60] and logic programming.[61]
 
 Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management.[62] It also features dynamic name resolution (late binding), which binds method and variable names during program execution.
@@ -32,7 +35,12 @@ Simple is better than complex.
 Complex is better than complicated.
 Readability counts.
 
-Indentation
+#### Indentation
 Main article: Python syntax and semantics § Indentation
 Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block.[76] Thus, the program's visual structure accurately represents the program's semantic structure.[77] This feature is sometimes termed the off-side rule, which some other languages share, but in most languages indentation does not have any semantic meaning. The recommended indent size is four spaces.[78]
 
+Everyone should learn Python!
+
+## Billy
+
+I agree with Todd!
